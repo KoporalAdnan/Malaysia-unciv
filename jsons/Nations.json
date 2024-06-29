@@ -28,7 +28,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [19, 29, 145],
 		"innerColor": [211, 232, 19],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Bandaraya Melaka","Q'Alor Gajah","Q'Ayer Keroh","Q'Telok Mas","Q'Jasin"
