@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"name": "Laksamana",
+		"unitType": "Sword",
+		"uniqueTo": "Sultanate of Malacca",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 95,
+		"rangedStrength": 56,
+		"range": 3,
+		"cost": 200,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"promotions": ["Drill II","Shock II"],
 		"attackSound": "phasers"
 	}
 ]
