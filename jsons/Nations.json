@@ -1,20 +1,21 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Sultanate of Malacca",
+		"leaderName": "Sultan Mahmud Shah",
+		"adjective": ["Tanah Melayu"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Sultanate Of Tanah Melayu",
+		"startIntroPart2": "Oh Sultanate of the great Tanah Melayu, the most precious sultanate to be live in the Tanah Melayu of the fifteen century, Golden Age of Melayu has bring successful of an largest trading port in the Southeast Asia, and once to be defeated by the Portuguese to bring the end of Malacca Era, monarchy and culture.  Sulatan of Malacca, glory and power are the keys to victory, your people are bright, and lend their iron to lead the Great Sultanate of Malacca once again!. Will your empire shine through the ages of history? 
+		",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"attacked": "So you have choosen to be extinct of the history nation,farewell.",
+		"defeated": "How is it possible that you managed to destroy our kingdom?!.",
+		"introduction": "Sultan of the Great Malacca, trade are acceptable for us only.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -28,11 +29,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [211, 232, 19],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"cities": ["Bandaraya Melaka","Q'Alor Gajah","Q'Ayer Keroh","Q'Telok Mas","Q'Jasin"
 ]
